@@ -5,6 +5,8 @@ Users enter a list of items, then the user is prompted by a choice between two i
 The user chooses the item they prefer and another set of chioices is provided.
 After several rounds a sorted list of thier items will be ordered by thier preferences.
 
+[Click here to try it out!](https://ayyystew.github.io/SorterMaker/)
+
 Created using HTML, JavaScript, and Tailwind.css
 The sorting is a insertion sort with a binary search to place the items.
 
